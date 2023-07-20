@@ -1,2 +1,2 @@
 # git_test
-my frist github repository
+my first github repository
